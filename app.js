@@ -2,7 +2,8 @@
 
 
 let ödegaard = -3000;
-let bruno = 89; 
+
+let bruno = 500; 
 
 if (ödegaard > bruno ){
 
@@ -13,5 +14,4 @@ else {
     console.log("Vaknade.. ");
 }
 
-//testar konflikt @Joel
 
