@@ -2,7 +2,7 @@
 
 
 let ödegaard = -3000;
-let bruno = 1000; 
+let bruno = 89; 
 
 if (ödegaard > bruno ){
 
@@ -14,3 +14,4 @@ else {
 }
 
 //testar konflikt @Joel
+
