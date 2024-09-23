@@ -1,7 +1,7 @@
 // Added app.js
 
-let ödegaard = 100;
-let bruno = 1; 
+let ödegaard = -3;
+let bruno = 1000; 
 
 if (ödegaard > bruno ){
 
