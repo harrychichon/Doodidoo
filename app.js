@@ -1,6 +1,6 @@
 // Added app.js
 
-let ödegaard = -3;
+let ödegaard = -45566;
 let bruno = 1000; 
 
 if (ödegaard > bruno ){
@@ -11,3 +11,4 @@ if (ödegaard > bruno ){
 else {
     console.log("Vaknade.. ");
 }
+
