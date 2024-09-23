@@ -1,6 +1,6 @@
 // Added app.js
 
-let ödegaard = -3;
+let ödegaard = -3000;
 let bruno = 1000; 
 
 if (ödegaard > bruno ){
@@ -11,3 +11,5 @@ if (ödegaard > bruno ){
 else {
     console.log("Vaknade.. ");
 }
+
+//testar konflikt @Joel
